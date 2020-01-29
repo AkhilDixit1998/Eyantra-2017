@@ -14,7 +14,7 @@ Most of the programming is done in Robot Operating System in linux and python. '
 The task completed was ROS based visual aided landing of Micro Quadcopter with Whycon based tracking.
 
 ## Samples
-<img src="https://github.com/AkhilDixit1998/Eyantra-2017/blob/master/Eyantra/ezgif.com-video-to-gif%20(1).gif" height="450">
+<img src="https://github.com/AkhilDixit1998/Eyantra-2017/blob/master/Eyantra/ezgif.com-video-to-gif%20(2).gif" height="450">
 <img src="https://github.com/AkhilDixit1998/Eyantra-2017/blob/master/Eyantra/ezgif.com-video-to-gif.gif" height="450">
 <img src="https://github.com/AkhilDixit1998/Eyantra-2017/blob/master/Eyantra/Drone%201.jpeg" height="700" width="700">
 <img src="https://github.com/AkhilDixit1998/Eyantra-2017/blob/master/Eyantra/Ground%201.jpeg" height="700" width="700">
